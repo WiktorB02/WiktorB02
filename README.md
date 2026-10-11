@@ -1,16 +1,20 @@
-## Hi there 👋
+# Cześć, jestem Wiktor 👋
 
-<!--
-**WiktorB02/WiktorB02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Szukam stażu lub pierwszej pracy w IT – jako junior web developer albo w helpdesku. Wrocław i okolice, stacjonarnie, hybrydowo lub zdalnie.
 
-Here are some ideas to get you started:
+## Czym się zajmuję
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏁 Od ponad roku utrzymuję i rozwijam **system zapisów na zawody kartingowe** dla TOP1 Karting ([zawody.top1karting.pl](https://zawody.top1karting.pl)) – PHP, MySQL, cPanel. Zapisało się przez niego kilkaset osób.
+- 🤖 Buduję aplikacje webowe we współpracy z AI: projektuję funkcje, logikę i UX, przeglądam pull requesty agenta, testuję i debuguję.
+- 🐍 Uczę się Pythona.
+
+## Projekty
+
+| Projekt | Opis | Technologie |
+| --- | --- | --- |
+| [Fakturex](https://github.com/WiktorB02/fakturex-generator-faktur) | Faktury VAT, magazyn, raporty, PDF | Vue 3, NestJS, PostgreSQL |
+| [AI Resume Analyzer](https://github.com/WiktorB02/ai-resume-analyzer) | Analiza CV przez GPT-4 i porównanie z ogłoszeniem | React, TypeScript, FastAPI |
+
+## Kontakt
+
+📫 wiktorboreck@wp.pl · [LinkedIn](https://www.linkedin.com/in/wiktor-borecki/)
